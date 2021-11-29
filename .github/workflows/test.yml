@@ -8,6 +8,6 @@ on:
 
 jobs:
   call-workflow:
-    uses: NNikitins/reusable-github-actions/.github/actions/reusable-workflow.yml@main
+    uses: NNikitins/reusable-github-actions/.github/workflows/reusable-workflow.yml@main
     with:
       username: Nikita
